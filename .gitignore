@@ -1,4 +1,4 @@
 .DS_Store
 tmp
 test/*.txt
-!text/master.txt
+!test/master.txt
